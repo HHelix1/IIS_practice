@@ -1,4 +1,3 @@
-# main.py (полная версия с UI и рекомендациями)
 from fastapi import FastAPI, Depends, HTTPException, Request, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
